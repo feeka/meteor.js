@@ -1,0 +1,14 @@
+.album_cover{
+	width: 95%;
+	border: 5px solid red;
+	margin: 5px;
+}
+.list_photos{
+	width: 100%;
+	border: 5px solid red;
+	margin: 5px;
+}
+
+.single-photo{
+	width: 100%;
+}
